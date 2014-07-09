@@ -102,5 +102,5 @@ NOTES
   (This note is from my experiences with SunOS 4.1.3 with the source code
   from Volume 1.  I have not tried to compile the Volume 2 source code
   under this OS.)
-  Git is a version control system
+  Git is a distributed version control system
   Git is free software.
